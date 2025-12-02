@@ -4,7 +4,7 @@
 
 This notebook documents how we train models from a given dataset to predicting manufacturing defects. It includes EDA, models training and comparison.
 
-**Models include:** **Logistic Regression**, **Support Vector Machine**, **Decision Tree**, **Random Forest**, **Extra Trees**, **AdaBoost**, **Gradient Boost**, **XGBoost**, **LightGBN** and **CatBoost**.
+**Models include:** **Support Vector Machine**, **Decision Tree**, **Random Forest**, **Extra Trees**, **AdaBoost**, **Gradient Boost**, **XGBoost**, **LightGBN** and **CatBoost**.
 
 Also, we use the three best performing models above to do **Voting Classifier** and **Stacking Classifier**.
 
@@ -28,7 +28,3 @@ The NEV Energy Management Dataset is designed to support research on optimizing 
 
 **Reference:** https://www.kaggle.com/datasets/ziya07/nev-energy-management-dataset/data
 
-
-## About this notebook
-
-For this notebook, we will build classifiers for Energy Efficiency Class. Our model includes <font color=orange>SVC, Decision Tree, Random Forest, Extra Trees, AdaBoost, Gradient Boost, XGBoost, LightGBM and CatBoost.
