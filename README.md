@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This notebook documents how we train models from a given dataset to predicting manufacturing defects. It includes EDA, models training and comparison.
+This notebook documents how we train models from a given dataset to classify energy efficiency levels with new energy vehicles. It includes EDA, models training and comparison.
 
 **Models include:** **Support Vector Machine**, **Decision Tree**, **Random Forest**, **Extra Trees**, **AdaBoost**, **Gradient Boost**, **XGBoost**, **LightGBN** and **CatBoost**.
 
